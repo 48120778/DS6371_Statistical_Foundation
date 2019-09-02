@@ -1,0 +1,9 @@
+---
+Sleuth exercises
+Author: Hao Wang
+---
+
+~~~{r}
+#Chapter 2
+#Exercise 23. Speed Limits and Traffic Fatalities
+~~~
